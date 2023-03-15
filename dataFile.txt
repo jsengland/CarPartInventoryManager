@@ -1,0 +1,20 @@
+1, Gear, 15
+2, Motor, 6
+3, Light, 20
+4, Brake, 10
+5, Wheel, 64
+0, 0, 0
+Edison, Brainard, Naperville, Illinois, 60540
+Hopper, Aurora, Naperville, Illinois, 60540
+Turing, College, Wheaton, Illinois, 60187
+0, 0, 0, 0, 0
+1, Edison
+3, 5
+2, 1
+1, 3
+0, 0
+2, Hopper
+3, 2
+5, 4
+0, 0
+0, 0
